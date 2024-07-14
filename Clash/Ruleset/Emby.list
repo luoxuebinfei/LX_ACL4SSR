@@ -1,6 +1,6 @@
 # 内容：Emby服务器
 # 数量：4条
 DOMAIN,notnetflix.cos.cat
-DOMAIN,tv.micu.hk
-DOMAIN,tv1.micu.hk
-DOMAIN,media.micu.hk
+DOMAIN-SUFFIX,tv.micu.hk
+DOMAIN-SUFFIX,tv1.micu.hk
+DOMAIN-SUFFIX,media.micu.hk
