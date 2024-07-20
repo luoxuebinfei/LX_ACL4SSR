@@ -3511,12 +3511,9 @@ DOMAIN-SUFFIX,mynetav.org
 DOMAIN-SUFFIX,mynumber.org
 DOMAIN-SUFFIX,myparagliding.com
 DOMAIN-SUFFIX,mypicture.info
-# DOMAIN,mypikpak.com
-# DOMAIN,mypikpak.net
-# DOMAIN,user.mypikpak.com
-# DOMAIN,access.mypikpak.com
-# DOMAIN,api-drive.mypikpak.com
-# DOMAIN-SUFFIX,pikpak.me
+DOMAIN,access.mypikpak.com
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,mypop3.net
 DOMAIN-SUFFIX,mypop3.org
 DOMAIN-SUFFIX,mypopescu.com
