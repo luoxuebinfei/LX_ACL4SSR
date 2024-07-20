@@ -26,5 +26,5 @@ PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
 # Pikpak
-DOMAIN-SUFFIX,mypikpak.com
+DOMAIN,mypikpak.com
 # PROCESS-NAME,DownloadServer.exe
