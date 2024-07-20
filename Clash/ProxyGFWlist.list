@@ -3516,7 +3516,7 @@ DOMAIN,mypikpak.net
 DOMAIN,user.mypikpak.com
 DOMAIN,access.mypikpak.com
 DOMAIN,api-drive.mypikpak.com
-DOMAIN,access.pikpak.me
+DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,mypop3.net
 DOMAIN-SUFFIX,mypop3.org
 DOMAIN-SUFFIX,mypopescu.com
